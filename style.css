@@ -1,0 +1,19 @@
+* {
+	font-family: sans-serif;
+}
+
+body {
+	background: #57b336;
+}
+
+.info {
+	margin: 10%;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: gray;
+	color: white;
+}
+
+.image {
+	
+}
